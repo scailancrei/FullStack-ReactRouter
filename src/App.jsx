@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
+import { Routes, Route } from "react-router-dom"
 import Footer from "./components/footer"
 import Menu from "./components/menu"
 import AnecdoteList from "./components/anecdoteList"
